@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Quien soy
 permalink: /about/
 ---
 
-Some information about you!
+Full Stack dev
 
-### More Information
+### Un poco más?
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Contactame
+
+[trucchienzo@gmail.com](mailto:trucchienzo@gmail.com)
