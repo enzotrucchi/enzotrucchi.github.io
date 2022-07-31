@@ -1,5 +1,6 @@
 ---
 layout: default
+image: /images/jr-al-infinito-cover.png
 ---
 
 <style type="text/css">
