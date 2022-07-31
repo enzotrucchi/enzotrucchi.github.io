@@ -2,6 +2,7 @@
 layout: post
 category: blog
 title: Un nuevo look, un viejo look
+description: Renovación de mi web con Jekyll y GitHub Pages
 ---
 
 <h2> Renovación de mi web con Jekyll y GitHub Pages </h2>
