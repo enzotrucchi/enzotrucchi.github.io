@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<style type="text/css">
+  object {
+    width:100%;
+    /* max-height:100%; */
+    height: 1000px;
+  }
+</style>
+
+<object data="../files/De-junior-al-infinito.pdf" type='application/pdf'></object>
