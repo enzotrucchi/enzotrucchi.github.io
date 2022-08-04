@@ -1,8 +1,8 @@
 ---
 layout: post
 category: talk
-title: Vengadores Unidos Innovando
-description: Un programa acerca de la innovación, el trabajo en equipo y mucho más
+title: Intraemprendimiento e Innovación en la misma vereda
+description: Workshop donde intraemprender es la clave
 ---
 Hace un tiempo me animé a armar y presentar una serie de charlas que iban de la mano de mi rol de Responsable de Innovación en la empresa [Pedrolga](https://pedrolga.com).
 
@@ -14,12 +14,18 @@ A veces se trata de animarse a algo superador y confiar en que va a impactar en 
 
 &nbsp;
 &nbsp;
-<img src="../images/vengadores-enzo.jpg" alt="Vengadores Unidos Innovando">
+<img src="../images/talkinn2.jpg" alt="Innovación & Creatividad 1 Enzo Trucchi">
+&nbsp;
+&nbsp;
+<img src="../images/talkinn.jpg" alt="Innovación & Creatividad 2 Enzo Trucchi">
+&nbsp;
+&nbsp;
+<img src="../images/talkinn1.jpg" alt="Innovación & Creatividad 3 Enzo Trucchi">
 &nbsp;
 &nbsp;
 
 --------
-Este post fue publicado originalmente en mi [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6709119153967505409/), pero si te gustó: ¡copate y compartilo!
+Este post fue publicado originalmente en mi [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6845010885291868160/), pero si te gustó: ¡copate y compartilo!
 
 
 &nbsp;

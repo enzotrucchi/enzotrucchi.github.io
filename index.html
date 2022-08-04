@@ -58,14 +58,15 @@ layout: default
 <div class="posts">
   {% for post in site.categories.blog %}
   <article class="post">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <h1>{{ post.title }}</h1>
 
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <p style="color:black;">
+        {{ post.description }}
+      </p>
 
-    <div class="entry">
-      {{ post.excerpt }}
-    </div>
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <p>Leer más</p>
+    </a>
   </article>
   {% endfor %}
 </div>
