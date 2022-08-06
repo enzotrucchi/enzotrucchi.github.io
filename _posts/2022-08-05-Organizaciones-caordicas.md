@@ -10,7 +10,7 @@ description: Una forma diferente de pensar la dinámica organizacional
 La escuché por primera vez en una charla a la que asistí en 2018 (un hackathon, mejor dicho) y quede fascinado. En ese primer momento se me ocurrieron dos cosas:
 
 > 1.  Tengo que investigar más de esta palabra (**¿Y por qué no, escribir un artículo?**).
-> 2.  - Tengo que intentar aplicarla a a lo cotidiano.
+> 2.  Tengo que intentar aplicarla a a lo cotidiano.
 
 Vamos a la definición: Caórdico viene del inglés “Chaordic” que es el resultado de la fusión “**chaos + order**” (¿Buscando el oxímoron?).
 
