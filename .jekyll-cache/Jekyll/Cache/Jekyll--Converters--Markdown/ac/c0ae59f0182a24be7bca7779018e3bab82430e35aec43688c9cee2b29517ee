@@ -1,0 +1,62 @@
+I"�<blockquote>
+  <p>o un título menos nerd.</p>
+</blockquote>
+
+<p>Gran must have para nuev@s (y no tan nuev@s) devs:  <em>Conocimientos en git</em>. Constantemente me gusta adquirir nuevos conocimientos y voy a tratar de explicarte un posible escenario de un workflow git based (o flujo de trabajo basado en git 😊) de la forma más amena posible: Con una pizzería.</p>
+
+<p>Recordá que workflows git based hay muchísimos y funciones/posibilidades de usar git también. Adaptalo a gusto y necesidad!</p>
+
+<p><strong>Lo primero: Setear nuestros escenarios.</strong></p>
+
+<p>Nosotros vamos a tener:  <strong>Cocina – Barra – Salón</strong></p>
+
+<p>Lo que podría equivaler a:  <strong>Development – Pre Production – Production</strong></p>
+
+<p>Vamos a por nuestro primero pedido!</p>
+
+<ol>
+  <li>
+    <p>Mesa 5 pide 2 muzzas + 3 flanes de huevo de postre.</p>
+  </li>
+  <li>
+    <p>Barra pasa el pedido a la cocina y piensa en el camino:  <a href="https://es.wikipedia.org/wiki/Entrega_continua">“Que bueno sería ir entregando de a partes, minimizaríamos el margen de error y el cliente podría saborear todo”.</a></p>
+  </li>
+  <li>
+    <p>Cocina prepara el pedido y lo pasa a la barra. En ese momento se libera y arranca a trabajar en otro pedido, en la única mesa de cocina.</p>
+  </li>
+  <li>
+    <p>Barra revisa la parte del pedido (2 muzzas) y lo desaprueba, porque una de las mazas está más cruda que la otra. Barra devuelve el pedido a cocina y piensa: “<a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks">Que bueno sería tener pruebas automáticas antes de el pedido llegue a barra</a>”.</p>
+  </li>
+  <li>
+    <p>Cocina recibe la devolución y ahora tiene un problema: La única mesa de cocina está ocupada en el pedido nuevo. Cocina piensa: “<a href="https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell">Que bueno sería duplicar la mesa de trabajo en un momento dado, como sacar una foto, así después podría volver a lo que estaba con orden</a>”.</p>
+  </li>
+  <li>
+    <p>Cocina trabaja en la revisión 1 del pedido y lo envía de nuevo a barra.</p>
+  </li>
+  <li>
+    <p>Barra aprueba el pedido y lo envía al salón. Barra piensa: “<a href="https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa">Que bueno sería tener un dron que lleve los pedidos de la barra hasta la mesa automáticamente</a>”</p>
+  </li>
+  <li>
+    <p>Cocina termina postres y envía a barra. De paso, hace sonar una campana para avisarle que quiere  <a href="https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests">unir postres a la mesa 5.</a></p>
+  </li>
+  <li>
+    <p>Barra revisa postres y aprueba la unión.</p>
+  </li>
+  <li>
+    <p>Hora de lavar los platos.</p>
+  </li>
+</ol>
+
+<p>Como podes ver, en 10 simples pasos (9 si no lavaste los platos), podes armar un flujo de trabajo lo suficientemente prolijo para no volverte loc@ y tener en cuenta siempre lo más importante:</p>
+
+<blockquote>
+  <p>Hacerle llegar a los clientes su pedido!</p>
+</blockquote>
+
+<hr />
+<p>Este post fue publicado originalmente en mi <a href="https://www.linkedin.com/pulse/super-workflow-basado-en-git-y-algo-m%25C3%25A1s-pizzer%25C3%25ADa-way-enzo-trucchi/?trackingId=2SjDwFTVTN6MhyRPmxhTWA%3D%3D">Linkedin</a>, pero si te gustó: ¡copate y compartilo!</p>
+
+<p> 
+ 
+<a href="https://cafecito.app/enzotrucchi"><img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" alt="Invitame un café en cafecito.app" /></a></p>
+:ET
