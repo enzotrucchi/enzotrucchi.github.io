@@ -1,10 +1,16 @@
-I"�<blockquote>
+I"#<blockquote>
   <p>o un título menos nerd.</p>
 </blockquote>
 
 <p>Gran must have para nuev@s (y no tan nuev@s) devs:  <em>Conocimientos en git</em>. Constantemente me gusta adquirir nuevos conocimientos y voy a tratar de explicarte un posible escenario de un workflow git based (o flujo de trabajo basado en git 😊) de la forma más amena posible: Con una pizzería.</p>
 
 <p>Recordá que workflows git based hay muchísimos y funciones/posibilidades de usar git también. Adaptalo a gusto y necesidad!</p>
+
+<p> 
+ 
+<img src="../images/git-workflow.png" alt="GIT Workflow" />
+ 
+ </p>
 
 <p><strong>Lo primero: Setear nuestros escenarios.</strong></p>
 

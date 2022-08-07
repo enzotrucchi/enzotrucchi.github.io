@@ -1,4 +1,16 @@
-I"{<div class="posts">
+I"j<div class="posts">
+  
+    <article class="post">
+      <a href="/innovatalks/">
+        <h1>Innovatalks</h1>
+
+        <p style="color:black;">
+          Un webinar de Innovación y Tecnología
+        </p>
+
+        <p>Leer más</p>
+      </a>
+    </article>
   
     <article class="post">
       <a href="/Innovacion-intraemprendimientos/">

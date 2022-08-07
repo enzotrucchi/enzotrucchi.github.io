@@ -18,7 +18,7 @@ Están dirigidas a:
 ⚡Directores, Gerentes, CEOs y Mandos Medios de compañías de base tecnológica o dedicadas a la Logística.
 ⚡Público en general
 
-📲 Agendá: el primer encuentro "Digitalización de la cadena de suministro" está a cargo del líder del departamento de innovación [Enzo Trucchi](https://www.linkedin.com/in/ACoAACMJNHABTcWt8o05NDaZzfE_aHme07rdXYI)
+📲 Agendá: el primer encuentro "Digitalización de la cadena de suministro" está a cargo del líder del departamento de innovación [Enzo Trucchi](https://www.linkedin.com/in/ACoAACMJNHABTcWt8o05NDaZzfE_aHme07rdXYI){:target="_blank"}
 
 El anfitrión será Pedro Soldera, Profesor de Logística III de la UTN.
 <img src="../images/innovatalks.png" alt="Innovatalks">
