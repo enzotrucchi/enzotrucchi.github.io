@@ -25,6 +25,7 @@ Nuestro paso es efímero y debería tener un significado.
 
 Tu tiempo siempre va a ser ahora. El futuro, repleto de incertidumbre, no es más que un paso más a dar posterior a tu preparación actual.
 &nbsp;
+
 Memento mori para vos, para mi y para todos.
 
 **¡Aprovecha el momento!**
