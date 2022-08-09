@@ -9,7 +9,7 @@ Un poco programador, un poco docente, a veces escritor. Siempre ligado a la tecn
 
 Intento de buen padre.
 
-Mi rol cambia (¿o se comparte?) varias veces en un lapso de 24 horas, pero siempre manteniendo la escencia: *Aprender y transmitir es parte de lo que soy*.
+Mi rol cambia (¿o se comparte?) varias veces en un lapso de 24 horas, pero siempre manteniendo la esencia: *Aprender y transmitir es parte de lo que soy*.
 
 &nbsp;
 
