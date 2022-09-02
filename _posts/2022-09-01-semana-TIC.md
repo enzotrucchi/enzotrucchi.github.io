@@ -5,8 +5,6 @@ title: De Junior al Infinito en la Semana TIC
 description: Edición 2022 - Villa María
 ---
 
-# De Junior al Infinito en la Semana TIC
-
 El 14 de Septiembre estaré presente en la Semana TIC VM, en esta ocasión como speaker y presentando una charla: **De Junior al Infinito**, *que camino elegir para aprender programación*. Un simple aporte entre tantas buenas charlas que se vienen.
 &nbsp;
 &nbsp;
