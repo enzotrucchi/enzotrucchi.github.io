@@ -12,7 +12,7 @@ El 14 de Septiembre estaré presente en la Semana TIC VM, en esta ocasión como 
 &nbsp;
 
 
-La idea es contar un poco como es el acceso al mundo desarrollo, que se necesita, que vas a aprender, cual es la dinámica del día a día y algunas cositas más que seguro leíste en el [libro que escribí](https://dejunioralinfinito.com.ar){:target="_blank"}.
+La idea es contar un poco como es el acceso al mundo desarrollo, que se necesita, que vas a aprender, cual es la dinámica del día a día y algunas cositas más que seguro leíste en el [libro que escribí](https://dejunioralinfinito.com.ar){:target="_blank"}
 
 &nbsp;
 Algo muy importante:
