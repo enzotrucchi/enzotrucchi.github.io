@@ -182,24 +182,34 @@ books:
   <br>
   <br>
 
-<table>
-  <tbody>
-    {% for book in page.books %}
-      {% if forloop.index == 1 or forloop.index == 5 or forloop.index == 9 or forloop.index == 13 or forloop.index == 17  %}
-        <tr>
-      {% endif %}
+  <table>
+    <tbody style="text-align: center">
+      {% tablerow book in page.books cols:4 %}
+        <img src="{{ book.img }}" alt="{{ book.title }}">
+        <h5>{{book.title}}</h5>
+      {% endtablerow %}
+    </tbody>
+  </table>
 
-        <td style="text-align: center">
-          <img src="{{ book.img }}" alt="{{ book.title }}">
-          <h5>{{book.title}}</h5>
-        </td>
+  <table>
+    <tbody>
 
-      {% if forloop.index == 4 or forloop.index == 8 or forloop.index == 12 or forloop.index == 16 or forloop.index == 20  %}
-        </tr>
-      {% endif %}
-    {% endfor %}
-  </tbody>
-</table>
+      <!-- {% for book in page.books %}
+        {% if forloop.index == 1 or forloop.index == 5 or forloop.index == 9 or forloop.index == 13 or forloop.index == 17  %}
+          <tr>
+        {% endif %}
+
+          <td style="text-align: center">
+            <img src="{{ book.img }}" alt="{{ book.title }}">
+            <h5>{{book.title}}</h5>
+          </td>
+
+        {% if forloop.index == 4 or forloop.index == 8 or forloop.index == 12 or forloop.index == 16 or forloop.index == 20  %}
+          </tr>
+        {% endif %}
+      {% endfor %} -->
+    </tbody>
+  </table>
 
 
 </div>
