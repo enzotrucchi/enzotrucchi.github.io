@@ -3,163 +3,163 @@ layout: default
 books:
   -
     title: A ciegas
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/a-ciegas.jpg"
   -
     title: Anthony Bourdain. Confesiones de un chef
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/confesiones-de-un-chef.jpg"
   -
     title: Así se manipula al consumidor
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/asi-se-manipula-al-consumidor.jpg"
   -
     title: Barack Obama. Biografía
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/barack-obama.jpg"
   -
     title: Bruce Dickinson. Biografía
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/bruce-dickinson.jpg"
   -
     title: Celda de aislamiento
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/celda-aislamiento.jpg"
   -
     title: Creatividad S.A.
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/creatividad-sa.jpg"
   -
     title: Cultura Innovadora
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/cultura-innovadora.jpg"
   -
     title: De cero a uno
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/de-cero-a-uno.jpg"
+  -
+    title: De entrada diga no
+    img: "../images/books/diga-no.jpg"
   -
     title: El alquimista
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/el-alquimista.jpg"
   -
     title: El caballero de la armadura oxidada
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/el-caballero-de-la-armadura-oxidada.jpg"
   -
     title: El elogio de la lentitud
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/elogio-de-la-lentitud.jpg"
   -
     title: El estilo Virgen. Richard Branson
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/estilo-virgin.jpg"
   -
     title: El hombre más rico de Babilonia
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/el-hombre-mas-rico-de-babilonia.jpg"
   -
     title: El monje que vendió su ferrari
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/el-monje-que-vendio-su-ferrari.jpg"
   -
     title: El poder de los hábitos
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/el-poder-de-los-habitos.jpg"
   -
-    title: El regalo de Mandela
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    title: El legado de Mandela
+    img: "../images/books/el-legado-de-mandela.jpg"
   -
     title: El sutil arte de que te importe un carajo
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/el-sutil-arte.jpg"
   -
     title: Empieza con el porqué
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/empieza-con-el-porque.jpg"
   -
     title: En sólo 20 horas
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/en-20-horas.jpg"
   -
     title: Equipos ideales
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/equipos-ideales.jpg"
   -
     title: Feminismo para torpes
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/feminismo-para-torpes.jpg"
+  -
+    title: Generación de Modelos de Negocio
+    img: "../images/books/generacion-bm.jpg"
   -
     title: Hábitos atómicos
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/habitos-atomicos.jpg"
   -
-    title: I am Ozzy (y confieso que he bebido)
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    title: I am Ozzy
+    img: "../images/books/i-am-ozzy.jpg"
   -
     title: Ikigai esencial
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
-  -
-    title: Inteligencia Relacional
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/ikigai.jpg"
   -
     title: La meta
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/la-meta.jpg"
   -
     title: La verdadera historia de Twitter
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/twitter.jpg"
   -
     title: Lean Startup
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/lean-startup.jpg"
   -
     title: Lecciones de liderazgo
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/steve-jobs.jpg"
   -
     title: Los 4 acuerdos
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/los-4.jpg"
   -
     title: Los 7 hábitos de la gente altamente efectiva
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/los-7.jpg"
   -
     title: Myke Tyson. Toda mi verdad
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/myke.png"
   -
     title: No es por el café
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/no-es-por-el-cafe.jpg"
   -
     title: No te ahoges en un vaso de agua
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/no-te-ahoges.jpg"
   -
     title: Nunca pares. Phil Knight
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/nunca-pares.jpg"
   -
     title: OPEN. Andre Agassi
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/open.jpg"
   -
     title: Oprime refrescar
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/refrescar.jpg"
   -
     title: Papillon
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/papillon.jpg"
   -
     title: Porque amamos a los perros, nos comemos a los cerdos y nos vestimos con vacas
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
-  -
-    title: Pro GIT
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/porque-amamos-a-los-perros.jpg"
   -
     title: Querido lider
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/querido-lider.jpg"
   -
     title: REC
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/rec.jpg"
   -
-    title: Reinventarte
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    title: Reinventarse
+    img: "../images/books/reinventarse.jpg"
   -
     title: Scar Tissue
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/scar.jpg"
   -
     title: SCRUM
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/scrum.jpg"
   -
     title: Seis sombreros para pensar
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/seis-sombreros.jpg"
   -
     title: Soy solo
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/soy-solo.jpg"
   -
     title: Sprint
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/sprint.jpg"
   -
     title: Transformación Digital
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/td.jpg"
   -
     title: Un ataque de lucidez
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/lucidez.jpg"
   -
     title: Un click. Amazon
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/amazon.jpg"
   -
     title: Vigilancia permanente
-    img: "https://m.media-amazon.com/images/I/91rGV39DmlL._AC_UY327_FMwebp_QL65_.jpg"
+    img: "../images/books/vigilancia.jpg"
 
 ---
 
@@ -169,13 +169,23 @@ books:
     border-collapse: collapse;
     padding: 10px;
   }
+
+  .book-img {
+    float: center;
+    width:  150px;
+    height: 230px;
+    object-fit: cover;
+  }
 </style>
 
 <div>
 
   <h1>Lecturas</h1>
-  La siguiente es una lista curada de libros que, *en algún momento*, me fueron de utilidad o me gustaron más que otros, y que sin lugar a dudas <strong>volvería a leer </strong>.<br>
+  La siguiente es una lista curada de libros que, en algún momento, me fueron de utilidad o me gustaron más que otros, y que sin lugar a dudas <strong>volvería a leer </strong>.<br>
   No están ordenados por categoría ni por orden de preferencia, sino por orden alfabético.
+  <br>
+  <br>
+  No hay libros técnicos, de programación, arquitectura y demás. Esa es otra lista.
   <br>
   <br>
   <strong>Enjoy it! </strong>
@@ -185,31 +195,9 @@ books:
   <table>
     <tbody style="text-align: center">
       {% tablerow book in page.books cols:4 %}
-        <img src="{{ book.img }}" alt="{{ book.title }}">
+        <img class="book-img" src="{{ book.img }}" alt="{{ book.title }}">
         <h5>{{book.title}}</h5>
       {% endtablerow %}
     </tbody>
   </table>
-
-  <table>
-    <tbody>
-
-      <!-- {% for book in page.books %}
-        {% if forloop.index == 1 or forloop.index == 5 or forloop.index == 9 or forloop.index == 13 or forloop.index == 17  %}
-          <tr>
-        {% endif %}
-
-          <td style="text-align: center">
-            <img src="{{ book.img }}" alt="{{ book.title }}">
-            <h5>{{book.title}}</h5>
-          </td>
-
-        {% if forloop.index == 4 or forloop.index == 8 or forloop.index == 12 or forloop.index == 16 or forloop.index == 20  %}
-          </tr>
-        {% endif %}
-      {% endfor %} -->
-    </tbody>
-  </table>
-
-
 </div>

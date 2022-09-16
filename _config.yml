@@ -18,7 +18,7 @@ avatar: https://github.com/enzotrucchi/enzotrucchi/blob/main/1640814566655.jfif?
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: trucchienzo@gmail.com
+  email:
   facebook:
   flickr:
   github: enzotrucchi
@@ -26,7 +26,7 @@ footer-links:
   linkedin: trucchienzo
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: enzotrucchi
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
